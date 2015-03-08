@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_providers">
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-2</item>
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_values">
+        <item>tiny</item>
+        <item>small</item>
+        <item>normal</item>
+        <item>large</item>
+        <item>huge</item>
+    </string-array>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
+    </string-array>
+    <string-array name="account_settings_types_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <integer-array name="senders_with_attachment_lengths">
+        <item>25</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="senders_lengths">
+        <item>27</item>
+        <item>27</item>
+    </integer-array>
+    <array name="letter_tile_colors">
+        <item>#fff16364</item>
+        <item>#fff58559</item>
+        <item>#fff9a43e</item>
+        <item>#ffe4c62e</item>
+        <item>#ff67bf74</item>
+        <item>#ff59a2be</item>
+        <item>#ff2093cd</item>
+        <item>#ffad62a7</item>
+    </array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Texto minúsculo</item>
+        <item>Texto pequeno</item>
+        <item>Texto normal</item>
+        <item>Texto grande</item>
+        <item>Texto enorme</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_size">
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Encaminhar</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Êxito</item>
+        <item>Sem ligação.</item>
+        <item>Não foi possível iniciar sessão.</item>
+        <item>Erro de segurança.</item>
+        <item>Não foi possível sincronizar.</item>
+        <item>Erro interno</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Usado frequentemente</item>
+        <item>Todas as pastas</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mais recente</item>
+        <item>Mais antiga</item>
+        <item>Lista de conversas</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Exibir conversa mais recente depois de excluir</item>
+        <item>Exibir conversa mais antiga depois de excluir</item>
+        <item>Exibir a lista de conversas depois de excluir</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>newer</item>
+        <item>older</item>
+        <item>list</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Mostrar só arquivo</item>
+        <item>Mostrar só eliminar</item>
+        <item>Mostrar arquivar &amp; eliminar</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Mostrar só arquivo</item>
+        <item>Mostrar só eliminar</item>
+        <item>Mostrar arquivar &amp; eliminar</item>
+    </string-array>
+    <string-array name="prefValues_removal_action">
+        <item>archive</item>
+        <item>delete</item>
+        <item>archive-and-delete</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Padrão</item>
+        <item>Formato</item>
+        <item>Nome</item>
+        <item>Remetente</item>
+        <item>Data</item>
+    </string-array>
+</resources>

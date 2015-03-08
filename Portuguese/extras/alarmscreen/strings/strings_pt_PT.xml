@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slider_text">Deslize para cima para desligar</string>
+    <string name="snooze_message">Suspender por %d min</string>
+</resources>

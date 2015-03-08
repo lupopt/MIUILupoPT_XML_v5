@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Protecção do ecrã com fotografias</string>
+    <string name="flipper_screensaver_name">Quadro de fotografias</string>
+    <string name="local_source_name">Fotografias no telefone</string>
+    <string name="need_to_configure">Nenhuma fotografia selecionada.</string>
+    <string name="no_photos">Nenhuma fotografia no dispositivo.</string>
+    <string name="photodream_select_all">Selec. tudo</string>
+    <string name="photodream_select_none">Deselc. sel.</string>
+    <string name="posts_album_name">Fotografias de postagens</string>
+    <string name="stock_photo_album_name">Fotografias padrão</string>
+    <string name="table_screensaver_name">Mesa de fotografias</string>
+    <string name="unknown_album_name">Álbum sem nome</string>
+</resources>

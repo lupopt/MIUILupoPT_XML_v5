@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="defaultname">Kit mãos livres</string>
+    <string name="process" />
+    <string name="bluetooth_remember_choice">Não pergunte de novo</string>
+    <string name="session_key_dialog_title">Introduza a chave de sessão para %1$s</string>
+    <string name="session_key_dialog_header">Chave de sessão Bluetooth necessária</string>
+    <string name="acceptance_timeout_message">Tempo limite esgotado para aceitar ligação de %1$s</string>
+    <string name="authentication_timeout_message">Tempo limite esgotado para autenticação com %1$s</string>
+    <string name="notif_ticker">Solicitação de ligação Bluetooth</string>
+    <string name="notif_message">"Toque para ligar com '%1$s'."</string>
+    <string name="dun_notif_title">Solicitação de chave de sessão para DUN</string>
+    <string name="bluetooth_dun_request">Pedido DUN</string>
+    <string name="bluetooth_dun_acceptance_dialog_text">%1$s gostaria de utilizar DUN. Permitir o acesso a %2$s?</string>
+    <string name="ftp_notif_title">Pedido de chave de sessão para FTP</string>
+    <string name="ftp_notif_active_session">Sessão ativa de Bluetooth FTP</string>
+    <string name="ftp_notif_connected">"Permitir o acesso a '%1$s' para a transferência de ficheiros através do Bluetooth."</string>
+    <string name="bluetooth_ftp_request">Pedido FTP</string>
+    <string name="bluetooth_ftp_acceptance_dialog_text">%1$s gostaria de aceder aos seus ficheiros e pastas. Permitir o acesso a %2$s?</string>
+    <string name="map_notif_active_session">Sessão ativa Bluetooth MAP</string>
+    <string name="map_notif_connected">"Acesso a mensagem Bluetooth para '%1$s'."</string>
+    <string name="bluetooth_mas_request">Pedido de acesso a mensagem</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s gostaria de aceder às suas mensagens. Permitir o acesso a %2$s?</string>
+    <string name="bluetooth_sap_request">Pedido SAP</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s gostaria de aceder ao cartão SIM. Permitir o acesso a %2$s?</string>
+</resources>

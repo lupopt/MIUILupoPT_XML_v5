@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <plurals name="album_number_of_pictures">
+        <item quantity="other">%d fotografias</item>
+        <item quantity="one">1 fotografia</item>
+    </plurals>
+    <plurals name="msg_media_reload_complete">
+        <item quantity="other">Carregamento de mutimédia concluído. Foram encontradas %d fotografias.</item>
+        <item quantity="one">Carregamento de mutimédia concluído. Foi encontrada 1 fotografia.</item>
+    </plurals>
+    <plurals name="pref_disposition_summary_format">
+        <item quantity="other">%1$d imagens são mostradas em %2$s</item>
+        <item quantity="one">1 imagem é mostrada em %2$s</item>
+    </plurals>
+</resources>

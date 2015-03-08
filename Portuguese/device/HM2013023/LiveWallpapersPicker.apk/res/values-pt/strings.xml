@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="application_name">Papeis de parede animados</string>
+    <string name="live_wallpaper_picker_title">Seleccionar papeis de parede animados</string>
+    <string name="live_wallpaper_picker_label">Papeis de parede animados</string>
+    <string name="live_wallpaper_preview_title">Pré-visualização de papeis de parede animados</string>
+    <string name="configure_wallpaper">Definições</string>
+    <string name="wallpaper_instructions">Definir papel de parede</string>
+    <string name="live_wallpaper_empty">Nenhum papel de parede animado disponível.</string>
+    <string name="set_live_wallpaper">Definir papel de parede</string>
+    <string name="wallpaper_title_and_author">%1$s por %2$s</string>
+    <string name="live_wallpaper_loading">A carregar papel de parede animado…</string>
+    <string name="wallpaper_cancel">Cancelar</string>
+</resources>

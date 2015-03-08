@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">%1$d jogadores</item>
+        <item quantity="one">Jogadores</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Convidar até mais %1$d</item>
+        <item quantity="one">Convidar até mais %1$d</item>
+    </plurals>
+    <plurals name="games_notification_new_match_activity">
+        <item quantity="other">%1$d novos convites para jogo</item>
+        <item quantity="one">%1$d novo convite para jogo</item>
+    </plurals>
+    <plurals name="games_notification_new_player_text">
+        <item quantity="other">Ver convites</item>
+        <item quantity="one">Ver convite</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s jogadores</item>
+        <item quantity="one">%1$s jogador</item>
+    </plurals>
+</resources>

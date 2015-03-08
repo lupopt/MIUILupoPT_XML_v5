@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">1</string>
+    <string name="app_ver_name">1.0</string>
+    <string name="app_name">Serviço UniPlay</string>
+    <string name="service_name">Serviço UniPlay</string>
+    <string name="notification_rc_title">Controlo romoto Xiaomi</string>
+    <string name="notification_rc_desc">Pode utilizar o controle remoto Xiaomi controlara sua caixa Xiaomi e TV</string>
+</resources>

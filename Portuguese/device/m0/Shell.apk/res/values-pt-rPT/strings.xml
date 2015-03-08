@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Shell</string>
+    <string name="bugreport_finished_title">Relatório de erros</string>
+    <string name="bugreport_finished_text">Partilhar relatório de erros</string>
+    <string name="bugreport_confirm">Os relatórios de erros contém dados de vários ficheiros do registo do sistema, incluindo informações pessoais e privadas. Partilhe apenas os relatórios de erros com pessoas da sua confiança.</string>
+    <string name="bugreport_confirm_repeat">Exibir esta mensagem na próxima vez</string>
+</resources>

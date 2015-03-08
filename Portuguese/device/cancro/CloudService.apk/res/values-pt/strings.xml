@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sincronizar com a nuvem MI</string>
+    <string name="sync_item_sms_title">Sincronizar mensagens</string>
+    <string name="sync_item_sms_summary">Sincronização de mensagens de texto entre dispositivos</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas uma ligação Wi-Fi para sincronizar MMS</string>
+    <string name="sub_sync_item_sms_summary">Reduz o uso de dados</string>
+    <string name="pref_title_sync_my_profile_title">Sincronizar o meu perfil</string>
+    <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas uma ligação Wi-Fi para mostrar fotografias</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Reduz o uso de dados</string>
+    <string name="find_device_stop_noise">Clique em OK para silenciar</string>
+    <string name="find_device_noise_title">Localize o dispositivo por som</string>
+    <string name="sync_item_calllog_title">Sincronizar registos das chamadas</string>
+    <string name="sync_item_calllog_summary">Sincronizar os registos de chamadas feitas e recebidas neste telefone</string>
+</resources>

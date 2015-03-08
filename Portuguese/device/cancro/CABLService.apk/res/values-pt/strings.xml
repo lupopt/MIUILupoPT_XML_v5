@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Definições do Conteúdo de Adaptação da Luz de fundo</string>
+    <string name="cabl_settings_title">Definições do Conteúdo de Adaptação da Luz de fundo</string>
+    <string name="cabl_enable_title">Ativar Conteúdo de Adaptação da Luz de fundo</string>
+    <string name="cabl_enable_summary_on">A luz de fundo irá reajustar com base no conteúdo do ecrã</string>
+    <string name="cabl_enable_summary_off">A luz de fundo não irá reajustar com base no conteúdo do ecrã</string>
+    <string name="cabl_levels_title">Níveis de energia</string>
+    <string name="cabl_levels_summary">Um nível mais baixo significa poupar mais energia, mas poderá fazer com que o ecrâ fique mais escuro do que o esperado</string>
+    <string name="cabl_level_default">Automático</string>
+    <string name="cabl_info_default">Desconhecido</string>
+    <string name="cabl_version_title">Versão CALF</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_name">Sincronizar com o Mi Cloud</string>
+    <string name="sync_item_sms_title">Sincronizar as mensagens</string>
+    <string name="sync_item_sms_summary">Sincronizar as suas mensagens enviadas e recebidas</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas Wi-Fi para sincronizar MMS</string>
+    <string name="sub_sync_item_sms_summary">Sincronizar apenas as mensagens com fotos, áudio ou outros meios de comunicação quando está ligado a uma rede Wi-Fi</string>
+    <string name="pref_title_sync_my_profile_title">Sincronizar perfil</string>
+    <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizar os contactos com fotos de perfil apenas quando estiver ligado a uma rede Wi-Fi</string>
+    <string name="find_device_stop_noise">Pressione OK para silênciar</string>
+    <string name="find_device_noise_title">Localizar o som do dispositivo</string>
+    <string name="sync_item_calllog_title">Sincronizar registos das chamadas</string>
+    <string name="sync_item_calllog_summary">Sincronizar os registos das chamadas efectuadas e recebidas</string>
+</resources>

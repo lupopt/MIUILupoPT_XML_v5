@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="keyboard_layout_armenian_eastern_label">Armenian Eastern</string>
+    <string name="keyboard_layout_arabic">Arabia</string>
+    <string name="keyboard_layout_greek">Grego</string>
+    <string name="keyboard_layout_hebrew">Hebreu</string>
+    <string name="keyboard_layout_lithuanian">Lithuanian</string>
+    <string name="keyboard_layout_spanish_latin">Espanhol (Latin)</string>
+    <string name="keyboard_layout_latvian">Latvian</string>
+    <string name="app_label">Dispositivos</string>
+    <string name="keyboard_layouts_label">Teclado Android</string>
+    <string name="keyboard_layout_english_uk_label">Inglês (UK)</string>
+    <string name="keyboard_layout_english_us_label">Inglês (US)</string>
+    <string name="keyboard_layout_english_us_intl">Inglês (US), Estilo Internacional</string>
+    <string name="keyboard_layout_english_us_colemak_label">Inglês (US), estilo Colemak</string>
+    <string name="keyboard_layout_english_us_dvorak_label">Inglês (US), estilo Dvorak</string>
+    <string name="keyboard_layout_german_label">Alemão</string>
+    <string name="keyboard_layout_french_label">Françês</string>
+    <string name="keyboard_layout_french_ca_label">Françês (Canada)</string>
+    <string name="keyboard_layout_russian_label">Russia</string>
+    <string name="keyboard_layout_russian_mac_label">Russo, Estilo Mac</string>
+    <string name="keyboard_layout_spanish_label">Espanhol</string>
+    <string name="keyboard_layout_swiss_french_label">Françês da Suiço</string>
+    <string name="keyboard_layout_swiss_german_label">Suiço Alemão</string>
+    <string name="keyboard_layout_belgian">Belgica</string>
+    <string name="keyboard_layout_bulgarian">Bulgaria</string>
+    <string name="keyboard_layout_italian">Italiano</string>
+    <string name="keyboard_layout_danish">Dinamarquês</string>
+    <string name="keyboard_layout_norwegian">Norueguês</string>
+    <string name="keyboard_layout_swedish">Sueco</string>
+    <string name="keyboard_layout_finnish">Finlandês</string>
+    <string name="keyboard_layout_croatian">Croata</string>
+    <string name="keyboard_layout_czech">Checo</string>
+    <string name="keyboard_layout_estonian">Estoniano</string>
+    <string name="keyboard_layout_hungarian">Hungaro</string>
+    <string name="keyboard_layout_icelandic">Islandês</string>
+    <string name="keyboard_layout_brazilian">Brasileiro</string>
+    <string name="keyboard_layout_portuguese">Português</string>
+    <string name="keyboard_layout_slovak">Eslovaco</string>
+    <string name="keyboard_layout_slovenian">Esloveno</string>
+    <string name="keyboard_layout_turkish">Turco</string>
+    <string name="keyboard_layout_ukrainian">Ucraniano</string>
+</resources>

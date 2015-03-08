@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="language_list_values">
+        <item>All Languages</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Portuguese</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Hungarian</item>
+        <item>Polish</item>
+        <item>Others</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>IceLandic</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_001b">false</item>
+    <item type="array" name="APKTOOL_DUMMY_001c">false</item>
+    <string-array name="plmn_prefer_network_mode_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>Dual modo</item>
+    </string-array>
+    <string-array name="plmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>Dual modo</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (modo auto)</item>
+        <item>WCDMA apenas</item>
+        <item>GSM apenas</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto mode)</item>
+        <item>TD-SCDMA only</item>
+        <item>GSM only</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mode)</item>
+        <item>WCDMA only</item>
+    </string-array>
+    <string-array name="umts_network_preferences_choices_cmcc">
+        <item>GSM/TD-SCDMA (auto mode)</item>
+        <item>TD-SCDMA only</item>
+    </string-array>
+    <string-array name="call_reject_mode_entries">
+        <item>Off</item>
+        <item>Todos os números</item>
+        <item>Lista de reijeição automática</item>
+    </string-array>
+    <string-array name="call_reject_dialog_array">
+        <item>Contacts</item>
+        <item>Call logs</item>
+    </string-array>
+    <item type="array" name="APKTOOL_DUMMY_002a">false</item>
+    <item type="array" name="APKTOOL_DUMMY_002b">false</item>
+    <string-array name="clir_display_values">
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
+    </string-array>
+    <string-array name="clir_values">
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>EvDo only</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>GSM/WCDMA preferred</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE/CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglês</item>
+        <item>Francês</item>
+        <item>Espanhol</item>
+        <item>Japonês</item>
+        <item>Coreano</item>
+        <item>Chinês</item>
+        <item>Hebraico</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Apenas doméstica</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>UIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY desativado</item>
+        <item>TTY completo</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Longo</item>
+    </string-array>
+    <string-array name="absent_num">
+        <item>NÚMERO AUSENTE</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Sempre</item>
+        <item>Apenas quando em silêncio</item>
+        <item>Never</item>
+    </string-array>
+</resources>

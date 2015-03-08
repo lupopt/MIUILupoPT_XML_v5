@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_name">Instalador de certificado</string>
+    <string name="pick_file_title">Escolha um certificado</string>
+    <string name="pkcs12_password_dialog_title">Extrair certificado</string>
+    <string name="extracting_pkcs12">A extrair…</string>
+    <string name="pkcs12_file_password_dialog_title">Extrair de %s</string>
+    <string name="name_credential_dialog_title">Nomear o certificado</string>
+    <string name="credential_name">Nome do certificado:</string>
+    <string name="credential_password">Digitar a palavra passe para extrair os certificados.</string>
+    <string name="credential_info">O pacote contém:</string>
+    <string name="p12_description">Certificados em chaves PKCS12</string>
+    <string name="one_userkey">Uma chave de utilizador</string>
+    <string name="one_usercrt">Um certificado de utilizador</string>
+    <string name="one_cacrt">Um certificado WAPI AS</string>
+    <string name="n_cacrts">%d certificado CA</string>
+    <string name="password_error">Digitar a palavra passe correcta</string>
+    <string name="password_empty_error">Digite a sua senha</string>
+    <string name="name_empty_error">Digite o seu utilizador</string>
+    <string name="name_char_error">Inserir um nome que contenha apenas letras e números</string>
+    <string name="storage_error">Não foi possível guardar o certificado. Seleccionar OK para tentar novamente.</string>
+    <string name="unable_to_save_cert">Não foi possível guardar o certificado. O armazenamento de credenciais não está activado ou não foi iniciado.</string>
+    <string name="cert_not_saved">O certificado não está instalado</string>
+    <string name="no_cert_to_saved">Não há certificado para instalar</string>
+    <string name="invalid_cert">O certificado é inválido</string>
+    <string name="cert_is_added">%s está instalado</string>
+    <string name="cert_too_large_error">O tamanho do certificado é muito grande</string>
+    <string name="cert_missing_error">O ficheiro de certificado não foi localizado</string>
+    <string name="cert_read_error">Não foi possível ler o ficheiro de certificado</string>
+    <string name="no_cert_file_found">Não foram encontrados ficheiros de certificado no armazenamento USB</string>
+    <string name="sdcard_not_present">Cartão SD indisponível</string>
+</resources>

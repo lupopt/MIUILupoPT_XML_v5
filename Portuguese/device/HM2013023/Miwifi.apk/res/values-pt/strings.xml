@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WIFI PORTÁTIL</string>
+    <string name="main_title">WIFI portátil disco partilhado</string>
+    <string name="refresh">Actualizar</string>
+    <string name="select_all">Seleccionar todos</string>
+    <string name="select_none">Desmarcar tudo</string>
+    <string name="selected_prompt">%s documentos foram seleccionados</string>
+    <string name="please_select">Por favor seleccione um ficheiro</string>
+    <string name="ok">confirma</string>
+    <string name="shared_root_folder">Disco partilhado</string>
+    <string name="loading_prompt">A ligar ao disco partilhado...</string>
+    <string name="please_connect_miwifi">Por favor, ligue o dispositivo ao Wi-Fi portátil</string>
+    <string name="play">Transmitir</string>
+    <string name="download_to_phone">Transferir para o telefone</string>
+    <string name="cancel">Cancelar</string>
+    <string name="folder_empty">Sem ficheiros</string>
+    <string name="type_text">Texto</string>
+    <string name="type_audio">Frequência áudio</string>
+    <string name="type_video">Video</string>
+    <string name="type_image">Imagem</string>
+    <string name="download_history">Transferido</string>
+    <string name="downloading">A transferir</string>
+    <string name="remove">Eliminar</string>
+    <string name="download_list_empty">De momento não existem tarefas de transferências</string>
+    <string name="paused">Pausado</string>
+    <string name="download_failed">Transferência falhada</string>
+    <string name="download_loading">A carregar</string>
+    <string name="remote_shutdown">O computador remoto vai desligar</string>
+    <string name="start">Iniciar</string>
+    <string name="hour">Hora</string>
+    <string name="minute">Minuto</string>
+    <string name="less_one_minute">1 minuto</string>
+    <string name="timing_prompt">%s para desligar</string>
+    <string name="will_be_shutdown">Vai desligar</string>
+    <string name="shutdown_prompt_dialog_title">Tipo de permissões</string>
+    <string name="shutdown_prompt_dialog_message">A primeira vez tem que definir permissões no computador</string>
+    <string name="shutdown_prompt_dialog_ok">Ok</string>
+    <string name="ppt_control">Deslize o controle remoto</string>
+    <string name="play_ppt_prompt">Verifique se o computador está ligado ao ficheiro de diapositivo</string>
+    <string name="slide_ppt_prompt">Pressione no diapositivo ou vire em redor da região</string>
+</resources>

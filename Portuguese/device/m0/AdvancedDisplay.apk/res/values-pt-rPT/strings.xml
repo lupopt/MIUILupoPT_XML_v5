@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="category_screen_title">Ecrã</string>
+    <string name="screen_colors_title">Cores</string>
+    <string name="mdnie_scenario_title_head">Cenário</string>
+    <string name="mdnie_scenario_summary_head">Define o Cenário mDNIe</string>
+    <string name="mdnie_mode_title_head">Modo</string>
+    <string name="mdnie_mode_summary_head">Define o Modo mDNIe</string>
+    <string name="mdnie_negative_title_head">Modo Negativo</string>
+    <string name="mdnie_negative_summary_head">Activar/Desactivar cores invertidas</string>
+</resources>

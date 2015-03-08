@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_name">Protecções de Ecrã com Fotografias</string>
+    <string name="table_screensaver_name">Tabela de Fotografias</string>
+    <string name="flipper_screensaver_name">Moldura de Fotografia</string>
+    <string name="posts_album_name">Fotografias de Mensagens</string>
+    <string name="unknown_album_name">Álbum Sem Nome</string>
+    <string name="stock_photo_album_name">Banco de Imagens</string>
+    <string name="local_source_name">Fotografias no Dispositivo</string>
+    <string name="need_to_configure">Nenhuma fotografia seleccionada.</string>
+    <string name="photodream_select_all">Seleccionar Tudo</string>
+    <string name="photodream_select_none">Desmarcar Tudo</string>
+    <string name="no_photos">Sem fotografias no dispositivo.</string>
+</resources>

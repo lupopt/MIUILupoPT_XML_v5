@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <plurals name="AD_COUNT">
+        <item quantity="other">%d adicionar anúncios</item>
+        <item quantity="one">1 anúncio adicionado</item>
+    </plurals>
+    <plurals name="AD_TITLE_COUNT">
+        <item quantity="other">%d aplicações contém publicidade</item>
+        <item quantity="one">1 aplicação contém publicidade</item>
+    </plurals>
+</resources>
